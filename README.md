@@ -72,8 +72,10 @@ This is a Python-based GUI application that allows users to convert between regu
 
 `cd Text-to-Morse-Converter
 `
+
 4. Run the Python script:
 
 `python TextToMorseConverter.py
 `
+
 5. Enjoy converting text ↔ Morse code with sound feedback!
