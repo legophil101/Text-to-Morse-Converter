@@ -70,12 +70,10 @@ This is a Python-based GUI application that allows users to convert between regu
    git clone https://github.com/legophil101/Text-to-Morse-Converter.git
 3. Navigate to the project directory:
 
-`cd Text-to-Morse-Converter
-`
+   `cd Text-to-Morse-Converter`
 
 4. Run the Python script:
 
-`python TextToMorseConverter.py
-`
+   `python TextToMorseConverter.py`
 
 5. Enjoy converting text ↔ Morse code with sound feedback!
