@@ -67,7 +67,7 @@ This is a Python-based GUI application that allows users to convert between regu
 1. Ensure Python 3.x is installed on your Windows machine.
 2. Clone the repository:
   ```bash
-   git clone https://github.com/legophil101/Text-to-Morse-Converter.git
+  git clone https://github.com/legophil101/Text-to-Morse-Converter.git
 3. Navigate to the project directory:
 
    `cd Text-to-Morse-Converter`
