@@ -3,6 +3,11 @@
 ## Project Overview
 This is a Python-based GUI application that allows users to convert between regular text and Morse code, with the added feature of playing Morse code as audible beeps. The application is designed to be user-friendly, interactive, and visually appealing, making it suitable for beginners learning Morse code or developers exploring text-to-sound integration.
 
+## Screenshot
+Here’s what the app looks like when running:
+
+![Text ↔ Morse Code Converter Screenshot](assets/screenshot.jpg)
+
 ## Key Features
 
 ### Text to Morse Conversion

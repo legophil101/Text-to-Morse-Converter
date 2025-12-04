@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="254ec960-f890-4418-87c1-0b93f2e36e8a" name="Changes" comment="">
+    <list default="true" id="254ec960-f890-4418-87c1-0b93f2e36e8a" name="Changes" comment="Add README for Text ↔ Morse Code Converter project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -78,6 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1764846023285</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add README for Text ↔ Morse Code Converter project">
+      <option name="closed" value="true" />
+      <created>1764851128178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764851128178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add README for Text ↔ Morse Code Converter project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README for Text ↔ Morse Code Converter project" />
   </component>
 </project>
