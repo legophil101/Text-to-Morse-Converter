@@ -1,7 +1,7 @@
 # Text ↔ Morse Code Converter
 
 ## Project Overview
-This is a Python-based GUI application that allows users to convert between regular text and Morse code, with the added feature of playing Morse code as audible beeps. The application is designed to be user-friendly, interactive, and visually appealing, making it suitable for beginners learning Morse code or developers exploring text-to-sound integration.
+This is a Python-based GUI application that allows users to convert between regular text and Morse code, with the added feature of playing Morse code as audible beeps. The application is designed to be user-friendly, interactive, and visually appealing, making it suitable for beginners learning Morse code and developers exploring GUI-based text-to-sound applications.
 
 ## Screenshot
 Here’s what the app looks like when running:
@@ -12,7 +12,7 @@ Here’s what the app looks like when running:
 
 ### Text to Morse Conversion
 - Converts any standard text input into Morse code.
-- Ignores unsupported characters with a pop-up notification.
+- Detects unsupported characters and notifies the user via a pop-up.
 
 ### Morse to Text Conversion
 - Decodes Morse code into readable text.
@@ -23,6 +23,7 @@ Here’s what the app looks like when running:
 - Plays Morse code using system beeps (`winsound` module).
 - Dots (`.`) produce short beeps, dashes (`-`) produce long beeps.
 - Includes pauses for letters and words to mimic real Morse code rhythm.
+> ⚠️ **Note:** Sound playback is supported on Windows only due to the use of the winsound module.
 
 ### Interactive GUI
 - Built using `Tkinter`.
@@ -60,7 +61,8 @@ Here’s what the app looks like when running:
 - Combines text processing, GUI design, and audio feedback.
 - Demonstrates thoughtful error handling and user-centric design.
 - Shows ability to integrate multiple Python modules (`tkinter`, `winsound`, `time`) into a cohesive application.
-- Portfolio-worthy because it balances functionality, interactivity, and polish.
+- This project demonstrates a balance of functionality, interactivity, and polish.
+- Building this project strengthened my understanding of dictionaries, event-driven GUI programming, and separating logic from interface code.
 
 ## Potential Enhancements
 - Adjustable beep speed and frequency for custom Morse code playback.
@@ -71,15 +73,15 @@ Here’s what the app looks like when running:
 ## How to Run
 1. Ensure Python 3.x is installed on your Windows machine.
 2. Clone the repository:
-   
-   `git clone https://github.com/legophil101/Text-to-Morse-Converter.git`
-
+```bash
+git clone https://github.com/legophil101/Text-to-Morse-Converter.git
+```
 3. Navigate to the project directory:
-
-   `cd Text-to-Morse-Converter`
-
+```bash
+cd Text-to-Morse-Converter
+```
 4. Run the Python script:
-
-   `python TextToMorseConverter.py`
-
+```bash
+python main.py
+```
 5. Enjoy converting text ↔ Morse code with sound feedback!
