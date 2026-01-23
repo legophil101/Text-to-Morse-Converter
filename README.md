@@ -74,11 +74,11 @@ Here’s what the app looks like when running:
 1. Ensure Python 3.x is installed on your Windows machine.
 2. Clone the repository:
 ```bash
-git clone https://github.com/legophil101/Text-to-Morse-Converter.git
+git clone https://github.com/legophil101/text-to-morse-converter.git
 ```
 3. Navigate to the project directory:
 ```bash
-cd Text-to-Morse-Converter
+cd text-to-morse-converter
 ```
 4. Run the Python script:
 ```bash

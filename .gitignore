@@ -1,4 +1,6 @@
-# Python cache
+# Python environment
+.venv/
+venv/
 __pycache__/
 *.pyc
 
